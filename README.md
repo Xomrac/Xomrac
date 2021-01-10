@@ -1,1 +1,1 @@
-![[homepage_git.gif]]
+![](./homepage_git.gif)
