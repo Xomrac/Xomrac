@@ -1,5 +1,5 @@
->I know no other sign of superiority than Goodness <br/>
-![](./homepage_git.gif)
+>I know no other sign of superiority than Goodness. <br/>
+![](./homepage_git.gif) <br/>
 * Hello there and welcome to my github profile!🎉<br/>
 * I consider myself niether skilled nor productive in my job, but I'm very creative, nice and kind at least☮️
 
@@ -16,3 +16,12 @@
   * I overthink about everything at least once a day </br>
   * I'm too honest about things </br>
   * I expect to much from other people and me </br>
+
+<h5>WHAT I'M INTERESTED IN</h5>
+* Politics<br/>
+  * History & geography<br/>
+  * Civic education<br/>
+  * Ecology<br/>
+  * Human & children rights<br/>
+  * Religion & Philosophy<br/>
+  * Everything that makes me discover something funny/weird/Curious about this planet and who inhabits it<br/>
