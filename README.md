@@ -1,24 +1,5 @@
 >I know no other sign of superiority than Goodness. <br/>
 ![](./homepage_git.gif) <br/>
-* Hello there and welcome to my github profile!🎉<br/>
-* I consider myself niether skilled nor productive in my job, but I'm very creative, nice and kind at least☮️
-
-<h5>STRENGHTS</h5>
-* I'm Friendly and I really like to work in groups </br>
-  * I'm practically always on time </br>
-  * I'm very Comprehensive with other people </br>
-  * I can adapt to almost every situation </br>
-  * I'm both an early bird and a night owl </br>
-  
-<h5>WEAKNESSES</h5>
-* I don't like to work alone on things </br>
-* I overthink about everything at least once a day </br>
-
-<h5>WHAT I'M INTERESTED IN</h5>
-* Politics<br/>
-  * History & geography<br/>
-  * Civic education<br/>
-  * Ecology<br/>
-  * Human & children rights<br/>
-  * Religion & Philosophy<br/>
-  * Everything that makes me discover something funny/weird/Curious about this planet and who inhabits it<br/>
+Hello there! and welcome to my github profile!🎉<br/>
+I'm just a very friendly and nerdy unity dev wearing cool earings and glasses
+Check out all the projects I worked on by visiting my site at https://xomrac.github.io/
