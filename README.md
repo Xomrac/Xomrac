@@ -9,15 +9,12 @@ I love designing **clean, modular systems** that balance creativity and engineer
 <!-- ### 📊 GitHub Stats
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=xomrac&how_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Xomrac)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xomrac&layout=compact&theme=tokyonight)
 -->
-[![marmoret's 42 stats](https://badge.mediaplus.ma/colorfulwaves/marmoret?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xomrac&layout=compact&theme=tokyonight)
 ---
 ### 🧭 Currently
-- ![42](https://img.shields.io/badge/42%20Florence-000000?style=for-the-badge&logo=42&logoColor=white) Common core student (Peer-learning program) 
 - 🛠️ Exploring advanced Unity Editor tooling (Mainly graphs APIs)
 - 🌱 Expanding my backend skills in .NET Core
-  
 ---
 
 ### ⚙️ My Tech Stack
